@@ -19,3 +19,8 @@ p {
   margin: 30px auto;
   padding: 30px;
 }
+
+section {
+  border-top: 1px solid #050149;
+  padding: 20px 0 0;
+}
