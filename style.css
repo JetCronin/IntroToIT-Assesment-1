@@ -12,7 +12,7 @@ p {
   color:#000000;
 }
 
-div {
+container {
           width: 90%;
           max-width: 800px;
           backround: #660066;
