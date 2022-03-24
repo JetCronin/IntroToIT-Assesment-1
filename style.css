@@ -2,14 +2,14 @@ html, body {
   backround: #35414A;
   font-family: helvetica, arial, sans-serif;
   font-size: 16px;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 p {
   font-size=: 1em;
   line-height: 1.2em;
   margin-bottom: 20px;
-  color:#FFFFFF
+  color:#000000;
 }
 
 #container {
