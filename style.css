@@ -1,5 +1,5 @@
 html, body {
-  backround: #35414A;
+  backround: #371C3B;
   font-family: helvetica, arial, sans-serif;
   font-size: 16px;
   color: #000000;
@@ -15,7 +15,7 @@ p {
 #container {
           width: 90%;
           max-width: 800px;
-          backround: #35414A;
+          backround: #371C3B;
           margin: 30px auto;
    padding: 30px;
 }
