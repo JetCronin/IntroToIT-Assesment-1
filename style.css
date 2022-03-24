@@ -1,5 +1,5 @@
 html, body {
-  backround-color: #35414A;
+  backround: #35414A;
   font-family: helvetica, arial, sans-serif;
   font-size: 16px;
   color: #000000;
@@ -13,14 +13,14 @@ p {
 }
 
 #container {
-  width: 90%;
-  max-width: 800px;
-  backround: #35414A;
-  margin: 30px auto;
-padding: 30px;
+          width: 90%;
+          max-width: 800px;
+          backround: #35414A;
+          margin: 30px auto;
+   padding: 30px;
 }
 
 section {
-  border-top: 1px solid #050149;
-  padding: 20px 0 0;
+        border-top: 1px solid #050149;
+        padding: 20px 0 0;
 }
